@@ -1,2 +1,3 @@
 # Linker
+<meta http-equiv="Refresh" content="0; url='https://www.youtube.com/watch?v=4Kvd-uquuhI?autoplay=1'" />
 This is a linker to the cool stuff...
